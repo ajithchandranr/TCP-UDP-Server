@@ -90,6 +90,10 @@ sock.close()
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the MIT License
+
 ## Contact
 
 This README provides an overview of your TCP/UDP Server project, how to use it, and other important details. Feel free to modify and expand it based on your project's specific requirements.
