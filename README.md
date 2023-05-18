@@ -96,8 +96,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-This README provides an overview of your TCP/UDP Server project, how to use it, and other important details. Feel free to modify and expand it based on your project's specific requirements.
-
 e-mail     : ajithchandranr@protonmail.com 
  
 linkedin  : https://www.linkedin.com/in/ajithchandranr/
